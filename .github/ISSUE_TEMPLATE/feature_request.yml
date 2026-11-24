@@ -1,0 +1,40 @@
+name: "Feature request / 改进建议"
+description: "Tell us what you want to accomplish and what could work better. / 告诉我们你想完成的工作，以及哪里可以更顺手。"
+title: "[Idea] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        English or Chinese is welcome. A real workflow is more helpful than a feature name alone.
+        欢迎使用英文或中文。具体的工作场景，比单独列一个功能名称更有帮助。
+
+        This report is public. Do not include private contact details or unreleased material.
+        这里的内容会公开显示，请勿填写私人联系方式或未公开素材。
+  - type: textarea
+    id: scenario
+    attributes:
+      label: "What you want to accomplish / 你想完成什么"
+      description: "Describe a real use case and the difficulty you currently face. / 描述一次实际使用场景，以及现在遇到的困难。"
+    validations:
+      required: true
+  - type: textarea
+    id: improvement
+    attributes:
+      label: "Suggested improvement / 希望怎样改进"
+      description: "How would you like the app to help? You do not need to propose a specific interface. / 你希望软件怎样帮助你？没有具体界面方案也可以。"
+    validations:
+      required: true
+  - type: textarea
+    id: benefit
+    attributes:
+      label: "Expected benefit / 带来的帮助"
+      description: "For example, which steps would it remove, what time would it save, or which mistakes would it prevent? / 例如减少哪些步骤、节省什么时间，或避免什么错误。"
+    validations:
+      required: false
+  - type: textarea
+    id: workaround
+    attributes:
+      label: "Current workaround / 目前怎么解决"
+      description: "How do you handle this now? Leave blank if you do not have a workaround. / 你现在的替代做法是什么？没有也可以留空。"
+    validations:
+      required: false

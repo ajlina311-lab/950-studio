@@ -1,0 +1,65 @@
+name: "Bug report / 问题反馈"
+description: "Report a problem so we can reproduce and fix it. / 报告使用中遇到的问题，帮助我们复现和修复。"
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for testing 950 Studio. English or Chinese is welcome. Please describe one problem per report.
+        感谢测试 950 Studio，欢迎使用英文或中文。请尽量只在一条反馈里描述一个问题。
+
+        This report is public. Remove personal information and unreleased material from screenshots or logs.
+        这里的内容会公开显示；截图或日志请去掉个人信息和未公开素材。
+  - type: input
+    id: app_version
+    attributes:
+      label: "App version / 软件版本"
+      description: "Enter the version shown in the app or the full download filename; write “Unknown” if you cannot find it. / 填写软件中显示的版本号，或下载包的完整文件名；找不到可写“不清楚”。"
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: "System and computer / 系统与电脑"
+      description: "Operating system name and version, plus the computer chip or architecture if known. / 操作系统名称、版本，以及电脑芯片或架构（如知道）。"
+    validations:
+      required: true
+  - type: textarea
+    id: connection
+    attributes:
+      label: "Devices and connection / 设备与连接"
+      description: "Device and interface models, cables or adapters, and connection method. Say if no hardware was connected; skip details you do not know. / 设备型号、接口型号、线缆或转接器、连接方式。未连接硬件也请说明；不清楚的部分可跳过。"
+    validations:
+      required: false
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: "Steps to reproduce / 怎样遇到这个问题"
+      description: "List your actions in order. Mention if it happened only once. / 按顺序写下操作；如果只发生过一次，也请说明。"
+      placeholder: |
+        1. Open… / 打开……
+        2. Click or do… / 点击或操作……
+        3. Observe… / 出现……
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: "Expected result / 预期结果"
+      description: "What did you expect to happen? / 你原本希望发生什么？"
+    validations:
+      required: false
+  - type: textarea
+    id: actual
+    attributes:
+      label: "Actual result / 实际结果"
+      description: "What actually happened? Include the exact error message if there was one. / 实际发生了什么？如有错误提示，请保留原文。"
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: "Screenshots, video or logs / 截图、录屏或日志"
+      description: "Paste relevant logs, drag in screenshots, or share a video link you are comfortable making public. Optional. / 可粘贴相关日志、拖入截图，或提供你愿意公开的录屏链接。此项可留空。"
+    validations:
+      required: false
