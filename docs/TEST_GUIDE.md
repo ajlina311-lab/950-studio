@@ -29,3 +29,7 @@ Note the app version, operating system, computer architecture if known, and equi
 A short recording or screenshot is welcome. Submit a **User test** or **Bug report** through the repository's Issues menu, in English or Chinese.
 
 欢迎附上短录屏或截图。在仓库 Issues 中提交 **使用测评** 或 **问题反馈**，英文和中文都可以。
+
+You can also share your experience in [Discord](https://discord.gg/AunScWHVu). Choose one place to submit; there is no need to repeat your feedback in both.
+
+也可以在 [Discord](https://discord.gg/AunScWHVu) 交流试用体验，任选一个入口提交即可，无需重复反馈。

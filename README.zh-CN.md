@@ -1,6 +1,6 @@
 # 950 Studio
 
-[English](README.md) · [提交反馈](https://github.com/ajlina311-lab/950-studio/issues/new/choose) · [版本下载](https://github.com/ajlina311-lab/950-studio/releases) · [社群](docs/COMMUNITY.md)
+[English](README.md) · [提交反馈](https://github.com/ajlina311-lab/950-studio/issues/new/choose) · [版本下载](https://github.com/ajlina311-lab/950-studio/releases) · [Discord](https://discord.gg/AunScWHVu) · [社群](docs/COMMUNITY.md)
 
 950 Studio 是面向 AKAI S950 使用者的界面工具项目，目前正在开发中，计划提供免费的公开测试版。
 
@@ -22,7 +22,9 @@
 
 ## 社群
 
-Discord 社群正在准备，用于操作求助、反馈、测试，以及分享音乐和工作流程。准备好后会在[社群页面](docs/COMMUNITY.md)提供邀请链接。
+[加入 950 Studio Discord 社群](https://discord.gg/AunScWHVu)，可以交流操作问题、提交反馈、参与测试，以及分享音乐和工作流程。中文和英文都欢迎。
+
+在 Discord 或 GitHub 任选一个入口反馈一次即可，后续跟进方式见[社群说明](docs/COMMUNITY.md)。
 
 ## 项目进展
 

@@ -1,6 +1,6 @@
 # Feedback Guide / 反馈说明
 
-[Project home / 项目首页](README.md)
+[Project home / 项目首页](README.md) · [Discord](https://discord.gg/AunScWHVu)
 
 English and Chinese are both welcome. Please describe what you actually tried; it is fine to leave unknown details blank where the form allows it.
 
@@ -36,6 +36,6 @@ Maintainers may ask for more details, link duplicate reports or request a retest
 
 维护者可能会补充询问、关联重复反馈，或在修复后邀请复测。已发布的改动会写入对应版本说明。
 
-When the Discord community opens, you may also report there. Submit once in whichever channel you prefer; maintainers will link work that needs tracking to an Issue and share progress in the original conversation.
+You may also share feedback in the [Discord community](https://discord.gg/AunScWHVu). Submit once in whichever place you prefer; maintainers will link work that needs tracking to an Issue and share progress in the original conversation.
 
-Discord 社群开放后，也可以在那里反馈。选择一个入口提交一次即可；需要持续跟进的问题由维护者关联到 Issue，并在原处同步进展。
+也可以直接在 [Discord 社群](https://discord.gg/AunScWHVu)反馈。选择一个入口提交一次即可；需要持续跟进的问题由维护者关联到 Issue，并在原处同步进展。
