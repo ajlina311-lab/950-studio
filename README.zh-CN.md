@@ -1,12 +1,12 @@
 # 950 Studio
 
+**公测提醒：950 Studio 可能导致 AKAI S950 死机。请在测试前保存当前 Program，编辑过程中也要及时保存。如果 S950 无响应，目前已知的恢复方法是在 S950 本机重启。**
+
 [English](README.md) · [提交反馈](https://github.com/ajlina311-lab/950-studio/issues/new/choose) · [版本下载](https://github.com/ajlina311-lab/950-studio/releases) · [Discord](https://discord.gg/AunScWHVu) · [社群](docs/COMMUNITY.md)
 
-950 Studio 是面向 AKAI S950 使用者的界面工具项目，目前正在开发中，计划提供免费的公开测试版。
+950 Studio 是面向 AKAI S950 使用者的界面工具项目。
 
 ## 下载
-
-**公测提醒：950 Studio 可能导致 AKAI S950 死机。请在测试前保存当前 Program，编辑过程中也要及时保存。如果 S950 无响应，目前已知的恢复方法是在 S950 本机重启。**
 
 **公开测试版已经发布。** 请通过 [Releases](https://github.com/ajlina311-lab/950-studio/releases) 下载；每个版本会附上支持系统、安装与连接说明，以及已知限制。
 

@@ -1,12 +1,12 @@
 # 950 Studio
 
+**Public beta warning: 950 Studio may cause your AKAI S950 to freeze. Save your Program before testing and regularly as you edit. If the S950 stops responding, the only recovery method we currently know is to restart the sampler itself.**
+
 [中文说明](README.zh-CN.md) · [Report an issue](https://github.com/ajlina311-lab/950-studio/issues/new/choose) · [Releases](https://github.com/ajlina311-lab/950-studio/releases) · [Discord](https://discord.gg/AunScWHVu) · [Community](docs/COMMUNITY.md)
 
-950 Studio is an interface project for AKAI S950 users. It is currently in development, with a free public beta planned.
+950 Studio is an interface project for AKAI S950 users.
 
 ## Download
-
-**Public beta warning: 950 Studio may cause your AKAI S950 to freeze. Save your Program before testing and regularly as you edit. If the S950 stops responding, the only recovery method we currently know is to restart the sampler itself.**
 
 **The public beta build is now available.** Download it through [Releases](https://github.com/ajlina311-lab/950-studio/releases). Each release includes its supported systems, setup instructions and known limitations.
 
