@@ -8,9 +8,7 @@
 
 **公测提醒：950 Studio 可能导致 AKAI S950 死机。请在测试前保存当前 Program，编辑过程中也要及时保存。如果 S950 无响应，目前已知的恢复方法是在 S950 本机重启。**
 
-**测试版准备中。** 目前尚未发布公开安装包。
-
-后续安装包将通过 [Releases](https://github.com/ajlina311-lab/950-studio/releases) 发布，每个版本会附上支持系统、安装与连接说明，以及已知限制。
+**公开测试版已经发布。** 请通过 [Releases](https://github.com/ajlina311-lab/950-studio/releases) 下载；每个版本会附上支持系统、安装与连接说明，以及已知限制。
 
 ## 反馈
 
