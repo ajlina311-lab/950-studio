@@ -6,6 +6,8 @@
 
 ## Download
 
+**Public beta warning: 950 Studio may cause your AKAI S950 to freeze. Save your Program before testing and regularly as you edit. If the S950 stops responding, the only recovery method we currently know is to restart the sampler itself.**
+
 **Public beta build coming soon.** No public installer has been released yet.
 
 Downloads will be published through [Releases](https://github.com/ajlina311-lab/950-studio/releases). Each release will include its supported systems, setup instructions and known limitations.

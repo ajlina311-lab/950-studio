@@ -4,7 +4,11 @@
 
 This guide is for the upcoming public beta. Once a build is available, follow that release's requirements and choose one supported workflow that you would actually use.
 
+**Public beta warning: 950 Studio may cause your AKAI S950 to freeze. Save your Program before testing and regularly as you edit. If the S950 stops responding, the only recovery method we currently know is to restart the sampler itself.**
+
 这份指引用于即将开放的公开测试。版本发布后，请以该版本的要求为准，选择一项实际会用到且已经支持的操作。
+
+**公测提醒：950 Studio 可能导致 AKAI S950 死机。请在测试前保存当前 Program，编辑过程中也要及时保存。如果 S950 无响应，目前已知的恢复方法是在 S950 本机重启。**
 
 ## Record your setup / 记录环境
 
