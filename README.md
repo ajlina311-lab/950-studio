@@ -8,7 +8,7 @@
 
 ## Download
 
-**The public beta build is now available.** Download it through [Releases](https://github.com/ajlina311-lab/950-studio/releases). Each release includes its supported systems, setup instructions and known limitations.
+**S950 Studio v1.3.21 (Build 36)** runs on Apple Silicon Macs with macOS 13 or later. [Download the app ZIP](https://github.com/ajlina311-lab/950-studio/releases/download/v1.3.21/S950-Studio-v1.3.21-macos-arm64.app.zip). The app is ad-hoc signed and has not been notarized by Apple. The [release page](https://github.com/ajlina311-lab/950-studio/releases/tag/v1.3.21) includes the source ZIP, `SHA256SUMS.txt`, and known limitations.
 
 ## Feedback
 

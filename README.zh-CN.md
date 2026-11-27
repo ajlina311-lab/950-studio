@@ -8,7 +8,7 @@
 
 ## 下载
 
-**公开测试版已经发布。** 请通过 [Releases](https://github.com/ajlina311-lab/950-studio/releases) 下载；每个版本会附上支持系统、安装与连接说明，以及已知限制。
+**S950 Studio v1.3.21 正式版（Build 36）** 适用于运行 macOS 13 或更新版本的 Apple Silicon Mac。[下载应用 ZIP](https://github.com/ajlina311-lab/950-studio/releases/download/v1.3.21/S950-Studio-v1.3.21-macos-arm64.app.zip)。应用采用 ad-hoc 签名，未经 Apple 公证。[正式版发布页](https://github.com/ajlina311-lab/950-studio/releases/tag/v1.3.21) 提供源码 ZIP、`SHA256SUMS.txt` 和已知限制说明。
 
 ## 反馈
 
