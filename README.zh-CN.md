@@ -12,6 +12,8 @@ S950 Studio 基于 OPT 开发的开源浏览器编辑器 S950rx。S950rx 源自 
 
 **S950 Studio v1.3.21 正式版（Build 36）** 适用于运行 macOS 13 或更新版本的 Apple Silicon Mac。[下载应用 ZIP](https://github.com/ajlina311-lab/950-studio/releases/download/v1.3.21/S950-Studio-v1.3.21-macos-arm64.app.zip)。应用采用 ad-hoc 签名，未经 Apple 公证。[正式版发布页](https://github.com/ajlina311-lab/950-studio/releases/tag/v1.3.21) 提供源码 ZIP、`SHA256SUMS.txt` 和已知限制说明。
 
+[中文使用手册](https://github.com/ajlina311-lab/950-studio/releases/download/v1.3.21/S950-Studio-User-Guide.zh-CN.html) · [English User Guide](https://github.com/ajlina311-lab/950-studio/releases/download/v1.3.21/S950-Studio-User-Guide.en.html)
+
 ## 反馈
 
 欢迎使用**中文或英文**反馈。[打开反馈表单](https://github.com/ajlina311-lab/950-studio/issues/new/choose)，选择：

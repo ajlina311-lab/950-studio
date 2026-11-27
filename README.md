@@ -12,6 +12,8 @@ S950 Studio builds on S950rx, OPT’s open-source browser editor, which grew out
 
 **S950 Studio v1.3.21 (Build 36)** runs on Apple Silicon Macs with macOS 13 or later. [Download the app ZIP](https://github.com/ajlina311-lab/950-studio/releases/download/v1.3.21/S950-Studio-v1.3.21-macos-arm64.app.zip). The app is ad-hoc signed and has not been notarized by Apple. The [release page](https://github.com/ajlina311-lab/950-studio/releases/tag/v1.3.21) includes the source ZIP, `SHA256SUMS.txt`, and known limitations.
 
+[English User Guide](https://github.com/ajlina311-lab/950-studio/releases/download/v1.3.21/S950-Studio-User-Guide.en.html) · [中文使用手册](https://github.com/ajlina311-lab/950-studio/releases/download/v1.3.21/S950-Studio-User-Guide.zh-CN.html)
+
 ## Feedback
 
 We welcome feedback in **English or Chinese**. [Open the feedback forms](https://github.com/ajlina311-lab/950-studio/issues/new/choose) and choose:
