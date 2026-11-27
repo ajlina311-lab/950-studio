@@ -4,7 +4,9 @@
 
 [English](README.md) · [提交反馈](https://github.com/ajlina311-lab/950-studio/issues/new/choose) · [版本下载](https://github.com/ajlina311-lab/950-studio/releases) · [Discord](https://discord.gg/AunScWHVu) · [社群](docs/COMMUNITY.md)
 
-950 Studio 是面向 AKAI S950 使用者的界面工具项目。
+S950 Studio 是一款面向 Akai S950 硬件采样器的 Mac 桌面应用。你可以在 Mac 上导入 WAV 或 AIFF、剪采样、分配 MIDI 键位并组装鼓组。连接真机后，可以把采样和音色发送到 S950，用内置 Sequencer 驱动它播放，边听真机的声音边调整采样起止点和循环。
+
+S950 Studio 基于 OPT 开发的开源浏览器编辑器 S950rx。S950rx 源自 Scott Swift（dxzl）的 S950rs。感谢两位作者的工作。[S950rx](https://github.com/opt-fx/s950rx) · [S950rs](https://github.com/dxzl/akai-s950)
 
 ## 下载
 

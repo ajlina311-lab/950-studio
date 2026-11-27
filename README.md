@@ -4,7 +4,9 @@
 
 [中文说明](README.zh-CN.md) · [Report an issue](https://github.com/ajlina311-lab/950-studio/issues/new/choose) · [Releases](https://github.com/ajlina311-lab/950-studio/releases) · [Discord](https://discord.gg/AunScWHVu) · [Community](docs/COMMUNITY.md)
 
-950 Studio is an interface project for AKAI S950 users.
+S950 Studio is a Mac desktop app for the Akai S950 hardware sampler. Import and trim WAV or AIFF samples, map them to MIDI notes, and build drum kits on your Mac. Connect your S950 to send samples and programs, trigger it with the built-in sequencer, and adjust sample start, end, and loop settings while listening to the hardware.
+
+S950 Studio builds on S950rx, OPT’s open-source browser editor, which grew out of S950rs by Scott Swift (dxzl). Thanks to both authors for their work. [S950rx](https://github.com/opt-fx/s950rx) · [S950rs](https://github.com/dxzl/akai-s950)
 
 ## Download
 
